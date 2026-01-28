@@ -1,1 +1,1 @@
-# SpectrGuru
+# SpectraGuru
